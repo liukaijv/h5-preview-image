@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "noop",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
