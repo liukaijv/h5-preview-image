@@ -1,6 +1,6 @@
 # h5-preview-image
 
-手机端基于jQuery|Zepto的图片预览插件，源自(amazeui)[https://github.com/amazeui/amazeui/blob/master/js/ui.pureview.js]的图片预览
+手机端基于jQuery|Zepto的图片预览插件，源自[amazeui](https://github.com/amazeui/amazeui/blob/master/js/ui.pureview.js)的图片预览
 
 ## 用法
 就是jQuery|Zepto插件的用法了
