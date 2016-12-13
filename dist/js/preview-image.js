@@ -4251,7 +4251,7 @@ if (typeof define === 'function' && define.amd) {
 
         shareBtn: true,
 
-        showDirection: false,
+        showDirection: true,
 
         target: 'img',
 

@@ -220,7 +220,7 @@
 
         shareBtn: true,
 
-        showDirection: false,
+        showDirection: true,
 
         target: 'img',
 

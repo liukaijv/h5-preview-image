@@ -7,7 +7,7 @@
 
 	$(selector).preview({
 		shareBtn: false, //默认值true
-        showDirection: false, //是否显示左右翻页箭头；默认值false
+        showDirection: true, //是否显示左右翻页箭头；默认值false
         target: 'img', //预览的图片路径，a标签的href或者是img标签的src属性；默认值img
         weChatImagePreview: true //是否微信浏览器中调用微信自带的；默认值true
 	});
